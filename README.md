@@ -2,9 +2,9 @@
 
 ## Graphs of the IP Traffic Flow
 
-![image5k](images\5000nodes.png)
+![](images/5000nodes.png)
 
-![zoomed](images\5kzoomed.png)
+![](images/5kzoomed.png)
 
 ## Dataset
 
